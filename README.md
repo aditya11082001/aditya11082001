@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya11082001
+- 👋 Hi, I’m @aditya
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Data Structures and Algorithms
 - 📫 How to reach me ...email: adityabhadauria11082001@gmail.com
