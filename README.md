@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Data Structures and Algorithms
+- 👀 I’m interested in ...Tech
+- 🌱 I’m currently learning ...Systems and Architecture
 - 📫 How to reach me ...email: adityabhadauria11082001@gmail.com
 
 <!---
